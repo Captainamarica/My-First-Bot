@@ -1,7 +1,7 @@
 from telegram.ext import Updater,MessageHandler,CommandHandler,Filters
 from googletrans import Translator
 
-updater = Updater('5278163266:AAEB5UTIhTD52hRpt5UkOeWPaRXC2GimpeQ',use_context = True )
+updater = Updater("BOT_TOKEN", "")
 
 def start(updater,context):
  updater.message.reply_text('hi iam google translater')
