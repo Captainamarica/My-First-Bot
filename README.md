@@ -1,4 +1,6 @@
 # My-First-Bot
 why why why ??
 
-[https://t.me/NightVission](https://te.legra.ph/file/9bcaf42fd894f9399c1e3.jpg)
+<p align="center">
+  <img src="https://telegra.ph/file/43e37874c6864b87cd5e2.jpg">
+</p>
