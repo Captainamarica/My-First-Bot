@@ -11,7 +11,15 @@
         "BOT_TOKEN": {
             "description": "Your Bot token from @Botfather",
             "value": ""
-        }
+        },
+        "API_ID": {
+            "description": "Api Id ",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Api Hash",
+            "value": ""
+      
     },
     "stack": "heroku-20",
     "buildpacks": [
