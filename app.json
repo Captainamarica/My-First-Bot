@@ -1,0 +1,49 @@
+{
+    "name": "1 eka bung",
+    "description": "My First Bomt",
+    "repository": "https://github.com/Captainamarica/My-First-Bot",
+    "logo": "https://telegra.ph/file/b20fd5dfc7cf46508593e.jpg",
+    "keywords": ["pyrogram",
+                 "pyro",
+                 "telegram",
+                 "telebot"],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps ",
+            "value": ""
+        },
+        "AUTH_USERS": {
+            "description": "Sudo User ids",
+            "value": ""
+        },
+        "HEROKU_API_KEY": {
+            "description": "Ur HEROKU_API fromm https://dashboard.heroku.com/account",
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "This App Name",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps",
+            "value": ""
+        }
+    },
+    "stack": "heroku-20",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
+
