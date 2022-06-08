@@ -9,7 +9,7 @@
                  "telebot"],
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot token from @Botfather",
+            "description": "Your Bot token from @Botfather ",
             "value": ""
         },
         "API_ID": {
@@ -17,9 +17,8 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Api Hash",
+            "description": "Api Hash ",
             "value": ""
-      
     },
     "stack": "heroku-20",
     "buildpacks": [
