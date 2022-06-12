@@ -1,9 +1,9 @@
 {
-  "name": "Night Vission ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
-  "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
+  "name": "Night Vission Test Bot",
+  "logo": "https://telegra.ph/file/49096f984feb1e90f9de1.jpg",
+  "description": "danhe bung translate bot kenek hadanna yanne mokak hadeda danhe",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/Captainamarica/FallenMusic",
+  "repository": "https://github.com/Captainamarica/My-First-Bot",
   "stack": "container",
   "env": {
     "BOT_TOKEN": {
@@ -36,7 +36,7 @@
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": ""
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
