@@ -38,7 +38,7 @@ async def start_(client: Client, message: Message):
                     )
                 ],[
                     InlineKeyboardButton(
-                        " ɪɴʟɪɴᴇ ", switch_inline_query_current_chat=""
+                        " ɪɴʟɪɴᴇ ", url=f"https://telegra.ph/file/8f07f55b3a3690109e44c.jpg""
                     ),
                     InlineKeyboardButton(
                         "More amazing Bots", url=f"https://t.me/NightVission"
