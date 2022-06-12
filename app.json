@@ -11,7 +11,7 @@
       "required": true
     },
     "BOT_NAME": {
-      "description": "A name for your MusicPlayer Bot",
+      "description": "kamathi namak dapan pagor",
       "required": false,
       "value": ""
     },
