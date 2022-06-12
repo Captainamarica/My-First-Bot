@@ -2,7 +2,7 @@
   "name": "Night Vission Test Bot",
   "logo": "https://telegra.ph/file/49096f984feb1e90f9de1.jpg",
   "description": "danhe bung translate bot kenek hadanna yanne mokak hadeda danhe",
-  "keywords": ["music", "voicechat", "telegram", "fallen"],
+  "keywords": ["chatbot", "start", "telegram", "NightVission"],
   "repository": "https://github.com/Captainamarica/My-First-Bot",
   "stack": "container",
   "env": {
